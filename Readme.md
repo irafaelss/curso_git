@@ -6,5 +6,3 @@ quarta alteração
 exibindo modificações
 
 atualization
-
-Nova atualização
